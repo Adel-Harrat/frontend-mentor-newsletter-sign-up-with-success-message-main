@@ -2,7 +2,7 @@ import { useState } from "react";
 import Form from "../components/Form";
 import Subtitle from "../components/Subtitle";
 import Title from "../components/Title";
-import ListItem from "../components/listItem";
+import ListItem from "../components/ListItem";
 import Button from "../components/Button";
 
 const App = () => {
